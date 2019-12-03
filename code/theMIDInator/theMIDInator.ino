@@ -5,7 +5,7 @@
 // This code is a companion to the YouTube video on how to build a MIDI controller (called
 // The MIDInator) linked below:
 
-// YOUTUBE LINK
+// https://youtu.be/JZ5yPdoPooU
 
 // The MIDInator uses an Arduino MEGA 2560, connected to a keypad, a few potentiometers, rotary
 // encoders, switches and a joystick to send MIDI messages over USB serial to a Serial to
